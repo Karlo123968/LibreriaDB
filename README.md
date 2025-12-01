@@ -68,8 +68,11 @@ Diseño presentable
 👨‍💻 Alumno
 
 Nombre: Karlo Ordaz
+
 Materia: Programación Visual
+
 Docente: Margarita Mondragon Arellano
+
 Grupo/Semestre: Quinto Semestre
 
 Código documentado
