@@ -1,5 +1,7 @@
-📚 BibliotecaBD
+📚 LibreriaBD
+
 CRUD Completo para Gestión de Libros
+
 🧠 Descripción
 
 Este proyecto implementa un sistema CRUD (Alta, Baja, Modificación y Consulta) para administrar libros dentro de una base de datos MySQL.
