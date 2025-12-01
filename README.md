@@ -28,7 +28,6 @@ HTML + CSS
 https://youtu.be/k-U5KZXu9q0
 
 
-(O puedes subir el video al repositorio si prefieres)
 
 💾 Base de Datos
 
